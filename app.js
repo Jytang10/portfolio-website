@@ -83,7 +83,6 @@ function init() {
     }
     switchDots(scrollSlide);
     nextSlide(scrollSlide);
-    console.log(scrollSlide);
   }
 
   const hamburger = document.querySelector('.menu');

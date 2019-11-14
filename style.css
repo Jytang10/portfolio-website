@@ -263,6 +263,15 @@ nav {
   .details h2 {
     font-size: 28px;
   }
+  .social-links img {
+    width: 31%;
+  }
+  .pages div {
+    display: none;
+  }
+  .profile img {
+    width: 99%;
+  }
 }
 
 .nav-open {
